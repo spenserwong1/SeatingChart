@@ -18,6 +18,7 @@ The program should output a file called SeatingChart.txt located within the PAC 
 When you open this file, it will contain the seating chart.
 
 
+
 //Advanced Information
 The Seating Chart algorithim automatically sorts teachers by grade placing seniors in the front and freshman in the back. It is difficult to
 change this functionality. However, one thing you should note is that within the grade, teachers are organized by the order they appear in the csv file. If 
